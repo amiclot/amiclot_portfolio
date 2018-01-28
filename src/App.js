@@ -29,7 +29,7 @@ class App extends Component {
                         <div>
                           <div class="text-box">
                             <div class="hover">
-                              <p>I am Case Western Coding Bootcamp Grad and a Retail Professional Merchant / MBA graduate, who is currently pursuing a web development position that will grow my experience and skills. I have experience in HTML5, CSS3, Javascript, JQuery, Bootstrap, MERN stack, Git and MySQL. Below are links to the github repositories for the projects I am working on.</p>
+                              <p>I am Case Western Coding Bootcamp graduate and a Retail Professional Merchant / MBA graduate, who is currently pursuing a web development position that will grow my experience and skills. I have experience in HTML5, CSS3, Javascript, JQuery, Bootstrap, MERN stack, Git and MySQL. Below are links to the github repositories, or live sites for the projects I am working on.</p>
                             </div>
                           </div>
                         </div>
