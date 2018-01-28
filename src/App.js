@@ -19,13 +19,13 @@ class App extends Component {
           <Container>
             <Container>
               <Row>
-                <Col size="xs-12">
+                <Col size="md-12">
                   <Card>
                     <Row>
-                      <Col size="xs-4">
+                      <Col size="md-4">
                         <Logo logo="port_img"/>
                       </Col>
-                      <Col size="xs-8">
+                      <Col size="md-8">
                         <div>
                           <div class="text-box">
                             <div class="hover">
@@ -40,11 +40,11 @@ class App extends Component {
               </Row>
             </Container>
             <Row>
-              <Col size="xs-12">
+              <Col size="md-12">
                 <form>
                   <Container>
                     <Row>
-                      <Col size="xs-6">
+                      <Col size="md-6">
                         <Card>
                           <h2>Solo Project - Open Rolls</h2>
                           <div class="mainmain">
@@ -64,7 +64,7 @@ class App extends Component {
                           </div>
                         </Card>
                       </Col>
-                      <Col size="xs-6">
+                      <Col size="md-6">
                         <Card>
                           <h2>Collaborative Project - HealthDash</h2>
                           <div class="mainmain">
