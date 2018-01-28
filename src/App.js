@@ -46,7 +46,7 @@ class App extends Component {
                     <Row>
                       <Col size="xs-6">
                         <Card>
-                          <h2>Solo Project</h2>
+                          <h2>Solo Project - Open Rolls</h2>
                           <div class="mainmain">
                             <a href="https://github.com/amiclot/open-rolls"><img class="egger" src={OR_img} alt="port_img" />
                             <div class="texter">
@@ -55,7 +55,7 @@ class App extends Component {
                           </div>
                         </Card>
                         <Card>
-                          <h2>Collaborative Project</h2>
+                          <h2>Collaborative Project - Guide-A-Geek</h2>
                           <div class="mainmain">
                             <a href="https://github.com/Button-Mashers/Guide-A-Geek"><img class="egger" src={geek_img} alt="port_img" />
                             <div class="texter">
@@ -66,7 +66,7 @@ class App extends Component {
                       </Col>
                       <Col size="xs-6">
                         <Card>
-                          <h2>Collaborative Project</h2>
+                          <h2>Collaborative Project - HealthDash</h2>
                           <div class="mainmain">
                             <a href="https://github.com/the-code-whisperers/project"><img class="egger" src={healthdash_img} alt="port_img" />
                             <div class="texter">
@@ -75,7 +75,7 @@ class App extends Component {
                           </div>
                         </Card>
                         <Card>
-                          <h2>Solo Project</h2>
+                          <h2>Solo Project - Transcend BJJ</h2>
                           <div class="mainmain">
                             <a href="https://amiclot.github.io/"><img class="egger" src={bjj_img} alt="port_img" />
                             <div class="texter">
