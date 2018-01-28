@@ -4,7 +4,7 @@ header {
   background-position: center;
   background-size: cover;
   color: #FFF;
-  height: 610px;
+  height: 1000px;
   margin: 0px auto 20px;
   overflow: hidden;
   padding: 20px 20px 20px 80px;
@@ -83,4 +83,23 @@ header {
 
 
 }
+
+  @media only screen and (max-width: 1300px) {
+    header {
+    background-attachment: fixed;
+    background-image: url('http://cdn.cnn.com/cnnnext/dam/assets/170815093658-china-beautiful-places---huangshan-mountain---flickr---ivan-ahlert-full-169.jpg');
+    background-position: center;
+    background-size: cover;
+    color: #FFF;
+    height: 610px;
+    margin: 0px auto 20px;
+    overflow: hidden;
+    padding: 20px 20px 20px 80px;
+    position: relative;
+    text-align: center;
+    -webkit-transition: all .5s ease-in-out;
+       -moz-transition: all .5s ease-in-out;
+            transition: all .5s ease-in-out;
+    }
+  }
   
