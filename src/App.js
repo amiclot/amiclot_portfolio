@@ -59,7 +59,7 @@ class App extends Component {
                           <div class="mainmain">
                             <a href="https://github.com/Button-Mashers/Guide-A-Geek"><img class="egger" src={geek_img} alt="port_img" />
                             <div class="texter">
-                              A dashboard for the Assassin’s Creed Origins video game. The app was built with a MySQL  back-end and utilized Embedded Javascript for templating. The app also included a web scraper using cheerio. My responsibilities were everything except for the web scraper, and some of the front-end design. Including user authentication, route creation, and front-end templating. CLICK to see this project's GitHub repository.
+                              A dashboard for the Assassin’s Creed Origins video game. The app was built with a MySQL  back-end and utilized Embedded Javascript for templating. The app also included a web scraper using cheerio. My responsibilities were user authentication, route creation, and front-end templating. CLICK to see this project's GitHub repository.
                             </div></a>
                           </div>
                         </Card>
@@ -70,7 +70,7 @@ class App extends Component {
                           <div class="mainmain">
                             <a href="https://github.com/the-code-whisperers/project"><img class="egger" src={healthdash_img} alt="port_img" />
                             <div class="texter">
-                              A calorie  tracker made for user to track their daily caloric intake and caloric exercise output.  The app includes user authentication (Firebase), Youtube API to pull relevant exercise videos depending on user selection, Nutritionix API, and Bideo.js plugin to add styling to the user registration page. My responsibilities were building the Youtube API and overall front-end design/code. CLICK to see this project's GitHub repository.
+                              A calorie  tracker made for user to track their daily caloric intake and caloric exercise output.  The app includes user authentication, Youtube API to pull relevant exercise videos depending on user selection, and a calorie counter. My responsibilities were building the Youtube API and overall front-end design/code. CLICK to see this project's GitHub repository.
                             </div></a>
                           </div>
                         </Card>
