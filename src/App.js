@@ -79,7 +79,7 @@ class App extends Component {
                           <div class="mainmain">
                             <a href="https://amiclot.github.io/"><img class="egger" src={bjj_img} alt="port_img" />
                             <div class="texter">
-                              I created this site early in the Case Western program to practice JQuery, HTML5 and CSS3. The site was a request from a colleague planning to open a Brazilian Jiu Jitsu bussiness. I would later use some of the styling from this project as compoenents in my final fullstack ReactJS app "open-rolls". CLICK to go to Site.
+                              I created this site early in the Case Western program to practice JQuery, HTML5 and CSS3. The site was a request from a colleague planning to open a Brazilian Jiu Jitsu business. I would later use some of the styling from this project as compoenents in my final fullstack ReactJS app "open-rolls". CLICK to go to Site.
                             </div></a>
                           </div>
                         </Card>
