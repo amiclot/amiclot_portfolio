@@ -7,7 +7,7 @@ const Nav = () => (
   			<div class="logo--large">
 	    		<div class="logo--medium">ADAM</div>
 	    		MICLOT
-	    		<div class="logo--small">Coding Portfolio</div>
+	    		<div class="logo--small">Portfolio</div>
   			</div>
 		</div>
 		
