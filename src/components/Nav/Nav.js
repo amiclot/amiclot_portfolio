@@ -10,6 +10,7 @@ const Nav = () => (
 	    		<div class="logo--small">Coding Portfolio</div>
   			</div>
 		</div>
+		
 	</header>
 );
 

@@ -5,6 +5,13 @@ h2{
   margin: 0% 0% 6% 0%;
 }
 
+h1{
+  font-family: 'Wire One', sans-serif; 
+  font-size: 6em;
+  text-align: center;
+  margin: 0% 0% 6% 0%;
+}
+
 .text-box {
   text-align: center;
   background-size: cover;
